@@ -1,0 +1,6 @@
+def new_func(string_input):
+    print(string_input)
+    print(len(string_input))
+
+
+new_func("Hello")
